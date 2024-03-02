@@ -45,8 +45,3 @@ Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate 
   <img align="center"  alt="Tiago-githubactions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
        
 </div>
-
-! [Snake animation](https://github.com/usaferreiratiago/usaferreiratiago/blob/output/github-contribution-grid-snake.svg)
-
-
-
