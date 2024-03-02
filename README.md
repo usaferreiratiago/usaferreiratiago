@@ -53,5 +53,5 @@ NIP: 7011093724 REGON: 522366040 Numer KRS: 0000978246👋
 <div>
  <a href="https://beacons.ai/usaferreiratiago">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usaferreiratiago&show_icons=true&theme-dark&include_all_commits-true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaferreiratiago&layout-compact&langs_count-16&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaferreiratiago&layout-compact&langs_count-16&theme=dark"/>
 </div>
