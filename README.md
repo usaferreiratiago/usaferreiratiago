@@ -1,3 +1,10 @@
+<div>
+ <a href="https://beacons.ai/usaferreiratiago">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usaferreiratiago&show_icons=true&theme-dark&include_all_commits-true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaferreiratiago&layout-compact&langs_count-16&theme=dark"/>
+</div>
+
+
 ### Hi there! I'm Tiago Henrique Ribeiro Ferreira 
 Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate about technology, and love working with fully collaborative teams. I’m constantly updating myself with the most current tools.
 
@@ -50,8 +57,4 @@ NIP: 7011093724 REGON: 522366040 Numer KRS: 0000978246👋
 - 
 -->
 
-<div>
- <a href="https://beacons.ai/usaferreiratiago">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usaferreiratiago&show_icons=true&theme-dark&include_all_commits-true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaferreiratiago&layout-compact&langs_count-16&theme=dark"/>
-</div>
+
