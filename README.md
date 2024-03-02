@@ -33,6 +33,7 @@ Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate 
   <img align="center" alt="Tiago-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
   <img align="center"  alt="Tiago-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
   <img align="center"  alt="Tiago-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center"  alt="Tiago-googlecloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
        
 </div>
 
