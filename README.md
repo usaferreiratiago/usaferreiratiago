@@ -8,7 +8,7 @@
 ### Hi there! I'm Tiago Henrique Ribeiro Ferreira - 🧑‍💻 Data Engineer <div> 
  
   <a href="https://www.linkedin.com/in/tiagohrferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/tiagohrferreira" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:usaferreiratiago@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 </div> 
 Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate about technology, and love working with fully collaborative teams. I’m constantly updating myself with the most current tools.
