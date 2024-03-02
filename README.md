@@ -8,11 +8,7 @@
 ### Hi there! I'm Tiago Henrique Ribeiro Ferreira - 🧑‍💻 Data Engineer
 Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate about technology, and love working with fully collaborative teams. I’m constantly updating myself with the most current tools.
 
-<div> 
- 
-  <a href="https://www.linkedin.com/in/tiagohrferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
-  
-</div> 
+
 
 <div style="display: inline_block"><br>
 
@@ -33,12 +29,14 @@ Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate 
   <img align="center" alt="Tiago-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
   <img align="center"  alt="Tiago-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
   <img align="center"  alt="Tiago-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-
-  
-          
-  
-  
+       
 </div>
+
+<div> 
+ 
+  <a href="https://www.linkedin.com/in/tiagohrferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
+  
+</div> 
   
   ##
 
