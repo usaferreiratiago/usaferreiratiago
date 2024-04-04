@@ -52,5 +52,5 @@ Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate 
        
 </div>
 
-<img height="200" src="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mup&amp;show=prs_merged_percentage&amp;size_weight=0.5&amp;count_weight=0.5&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;">
+<img height="200" src="https://camo.githubusercontent.com/45489662d71db2717411abd0e96dfc763f640a5486b8f8265fc549ac7bca2ef4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e647265736d7570266c61796f75743d636f6d706163742673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35267468656d653d7472616e73706172656e74" data-canonical-src="https://github-readme-stats.vercel.app/api?username=usaferreiratiagomup&amp;show=prs_merged_percentage&amp;size_weight=0.5&amp;count_weight=0.5&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;">
 
