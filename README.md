@@ -51,6 +51,3 @@ Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate 
   <img align="center"  alt="Tiago-githubactions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
        
 </div>
-
-<img height="200" src="https://camo.githubusercontent.com/ac02f455be4e736df626a5bf8eef558ff9e498102ae42c9ffb1344bad8f44b70/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7573616665727265697261746961676f2673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974732d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=usaferreiratiagomup&amp;show=prs_merged_percentage&amp;size_weight=0.5&amp;count_weight=0.5&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;">
-
