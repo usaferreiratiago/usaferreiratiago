@@ -7,6 +7,8 @@
   </a>
 </div>
 
+<img src="https://camo.githubusercontent.com/9821af05c4dccdfd0fc1659827fff5702445875783482632fbc5cc58db77878b/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d416e647265736d7570267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526686964655f7469746c653d66616c736526617265613d7472756526637573746f6d5f7469746c653d546f74616c253230636f6e747269627574696f6e2532306772617068253230696e253230616c6c2532307265706f" width="95%" alt="activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=usaferreiratiagomup&amp;theme=react-dark&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 100%;">
+
 
 
 ### Hi there! I'm Tiago Henrique Ribeiro Ferreira - 🧑‍💻 Data Engineer <div> 
