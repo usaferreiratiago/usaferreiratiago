@@ -1,9 +1,8 @@
 <div>
   <a href="https://beacons.ai/usaferreiratiago">
-     <img height="200" src="https://camo.githubusercontent.com/ac02f455be4e736df626a5bf8eef558ff9e498102ae42c9ffb1344bad8f44b70/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7573616665727265697261746961676f2673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974732d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=usaferreiratiagomup&amp;show=prs_merged_percentage&amp;size_weight=0.5&amp;count_weight=0.5&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;">
+     <img height="200" src="https://github-readme-stats.vercel.app/api?username=usaferreiratiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=usaferreiratiago&show=prs_merged_percentage&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent" style="max-width: 100%;">
 
-    
-  <img height="200" src="https://camo.githubusercontent.com/45489662d71db2717411abd0e96dfc763f640a5486b8f8265fc549ac7bca2ef4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e647265736d7570266c61796f75743d636f6d706163742673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35267468656d653d7472616e73706172656e74" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaferreiratiagomup&amp;layout=compact&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent" style="max-width: 100%;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaferreiratiago&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaferreiratiago&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent" style="max-width: 100%;">
   </a>
 </div>
 
@@ -52,5 +51,4 @@ Over 12+ years of IT experience as a Data Engineer. I’m proactive, passionate 
        
 </div>
 
-
-<img src="https://camo.githubusercontent.com/9821af05c4dccdfd0fc1659827fff5702445875783482632fbc5cc58db77878b/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d416e647265736d7570267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526686964655f7469746c653d66616c736526617265613d7472756526637573746f6d5f7469746c653d546f74616c253230636f6e747269627574696f6e2532306772617068253230696e253230616c6c2532307265706f" width="95%" alt="activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=usaferreiratiagosmup&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 100%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usaferreiratiago&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph" style="max-width: 100%;">
