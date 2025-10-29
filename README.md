@@ -10,7 +10,7 @@
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/tiagohrferreira" rel="nofollow">Tiago Henrique Ribeiro Ferreira</a> -🧑‍💻 Data Engineer <div> 
  
-  <a href="https://www.linkedin.com/in/tiagohrferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ferreiratiagoth"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
   <a href="mailto:usaferreiratiago@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.amazon.com/software-orchestration-integration-Pipelines-integrates/dp/B0CW1B5NTC/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
   <a href="https://www.amazon.com/Database-MySQL-Proven-Strategies-Optimization/dp/B0CTZVZ31H/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
